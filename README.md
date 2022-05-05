@@ -2,7 +2,7 @@
 
 ## Conslusion
 
-CONCLUSION: As we can see, there is no place where the elbow even remotely begins or attempts to smooth our for this respective exercise or dataset. We can safely say no where that any good clustering is going to happen. Basically, TSNE and the elbow plot conclude that we have just the one cluster or we have no where in which any meaningful clustering is happening at all within this respective dataset.
+CONCLUSION: As we can see, there is no place where the elbow even remotely begins or attempts to smooth out for this respective exercise or dataset. We can safely say no where that any good clustering is going to happen. Basically, TSNE and the elbow plot conclude that we have just the one cluster or we have no where in which any meaningful clustering is happening at all within this respective dataset.
 
 ## Background
 
